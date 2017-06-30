@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><!--手机端调试代码-->
+    <title>九宫格</title>
+    <style type="text/css">
+    .div{
+        width: 20%;
+
+       background-color: yellow;
+        border: 1px solid red;
+        margin-right: 5%;
+        margin-bottom: 5%;
+        padding:20% 0% 0% 0%;
+        float: left;
+        border-radius:25px;
+    }
+    </style>
+
+
+</head>
+<body>
+      <div class="div"></div>
+      <div class="div"></div>
+      <div class="div"></div>
+      <div class="div"></div>
+      <div class="div"></div>
+      <div class="div"></div>
+      <div class="div"></div>
+      <div class="div"></div>
+      <div class="div"></div>
+
+
+
+</body>
+</html>
